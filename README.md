@@ -17,3 +17,4 @@ Icons: Material Design Icons via react-icons (Apache-2.0); a few episodes also u
 | 日期 Date | 論文 Paper | arXiv | YouTube | 下載 Download |
 |---|---|---|---|---|
 | 2026-11-14 | TokenEconomizer: Experience-Driven Black-Box Cost Control for Coding Agents | [arXiv 2610.22732](https://arxiv.org/abs/2610.22732) | [中文](https://youtu.be/HdUIvbv4B2Q) / [English](https://youtu.be/3VZ6R3kjnJY) | [2026-11-14_TokenEconomizer](https://github.com/ray630410/ai-paper-slides/releases/tag/2026-11-14_TokenEconomizer) |
+| 2026-11-14 | Harness²: Recursive Agent Harnessing for an Open World | [arXiv 2610.14224](https://arxiv.org/abs/2610.14224) | [中文](https://youtu.be/XV0pLiyy1ck) / [English](https://youtu.be/0o2vNLR5nxs) | [2026-11-14_Harness2](https://github.com/ray630410/ai-paper-slides/releases/tag/2026-11-14_Harness2) |
