@@ -12,6 +12,10 @@ The slides are licensed under [CC BY 4.0](https://creativecommons.org/licenses/b
 
 Icons: Material Design Icons via react-icons (Apache-2.0); a few episodes also use Font Awesome Free (CC BY 4.0), noted in their release.
 
+每個 Release 的 Source code 壓縮檔是 GitHub 自動附加的說明文件，非論文內相關程式源碼。
+
+Each release’s Source code archives are added automatically by GitHub and contain only this repository’s documentation files; they are not source code from the paper.
+
 ## 各集 / Episodes
 
 | 日期 Date | 論文 Paper | arXiv | YouTube | 下載 Download |
