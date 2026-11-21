@@ -20,7 +20,7 @@ Each release’s Source code archives are added automatically by GitHub and cont
 
 | 日期 Date | 論文 Paper | arXiv | YouTube | 下載 Download |
 |---|---|---|---|---|
-| 2026-11-14 | TokenEconomizer: Experience-Driven Black-Box Cost Control for Coding Agents | [arXiv 2610.22732](https://arxiv.org/abs/2610.22732) | [中文](https://youtu.be/HdUIvbv4B2Q) / [English](https://youtu.be/3VZ6R3kjnJY) | [2026-11-14_TokenEconomizer](https://github.com/ray630410/ai-paper-slides/releases/tag/2026-11-14_TokenEconomizer) |
+| 2026-11-14 | TokenEconomizer: Experience-Driven Black-Box Cost Control for Coding Agents | [arXiv 2610.22732](https://arxiv.org/abs/2610.22732) | [中文](https://youtu.be/a5VKqcgm140) / [English](https://youtu.be/3VZ6R3kjnJY) | [2026-11-14_TokenEconomizer](https://github.com/ray630410/ai-paper-slides/releases/tag/2026-11-14_TokenEconomizer) |
 | 2026-11-14 | Harness²: Recursive Agent Harnessing for an Open World | [arXiv 2610.14224](https://arxiv.org/abs/2610.14224) | [中文](https://youtu.be/JcHUVa_HTIo) / [English](https://youtu.be/0o2vNLR5nxs) | [2026-11-14_Harness2](https://github.com/ray630410/ai-paper-slides/releases/tag/2026-11-14_Harness2) |
 | 2026-11-16 | OmniEdu: Open Foundation Models for Learning and Teaching | [arXiv 2609.23088](https://arxiv.org/abs/2609.23088) | [中文](https://youtu.be/-wdH40Fc2J0) / [English](https://youtu.be/-tcxhpEET8s) | [2026-11-16_OmniEdu](https://github.com/ray630410/ai-paper-slides/releases/tag/2026-11-16_OmniEdu) |
 | 2026-11-17 | Actor, Judge, or Teacher? | [arXiv 2611.17167](https://arxiv.org/abs/2611.17167) | [中文](https://youtu.be/3FPcRSsKIAE) / [English](https://youtu.be/pW0pxyXkEZ0) | [2026-11-17_ActorJudgeTeacher](https://github.com/ray630410/ai-paper-slides/releases/tag/2026-11-17_ActorJudgeTeacher) |
